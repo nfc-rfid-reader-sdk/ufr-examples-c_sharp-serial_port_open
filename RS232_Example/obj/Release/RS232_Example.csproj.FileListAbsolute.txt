@@ -1,0 +1,10 @@
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\obj\Release\RS232_Example.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\obj\Release\RS232_Example.Form1.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\obj\Release\RS232_Example.Properties.Resources.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\obj\Release\RS232_Example.csproj.GenerateResource.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\obj\Release\RS232_Example.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\bin\Release\RS232_Example.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\bin\Release\RS232_Example.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\bin\Release\RS232_Example.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\obj\Release\RS232_Example.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\RS232_Example\RS232_Example\obj\Release\RS232_Example.pdb
