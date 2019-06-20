@@ -1,3 +1,0 @@
-[submodule "RS232_Example/ufr-lib"]
-	path = RS232_Example/ufr-lib
-	url = https://git.d-logic.net/nfc-rfid-reader-sdk/ufr-lib.git
